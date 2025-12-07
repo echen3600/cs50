@@ -7,4 +7,3 @@ for coin in [25, 10, 5, 1]:
     cents = cents % coin
 
 print(int(coins))
-
